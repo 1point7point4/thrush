@@ -1,0 +1,22 @@
+{
+  "name": "aa-thrush",
+  "version": "1.0.0",
+  "description": "Pointfreedom for the masses",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env BABEL_ENV=cjs mocha --require babel-register --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1point7point4/thrush.git"
+  },
+  "keywords": [
+    "pointfree"
+  ],
+  "author": "1point7point4 <1point7point4@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1point7point4/thrush/issues"
+  },
+  "homepage": "https://github.com/1point7point4/thrush#readme"
+}
