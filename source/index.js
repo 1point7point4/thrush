@@ -1,1 +1,1 @@
-export { default as always, const } from "./const";
+export { default as always } from "./always";
